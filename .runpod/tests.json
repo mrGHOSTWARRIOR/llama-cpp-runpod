@@ -24,10 +24,6 @@
                 "key": "LLAMA_ARG_N_GPU_LAYERS",
                 "value": "999"
             }
-        ],
-        "allowedCudaVersions": [
-            "12.8",
-            "12.9"
         ]
     }
 }
